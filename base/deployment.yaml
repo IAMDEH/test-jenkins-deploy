@@ -15,7 +15,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: 10.10.10.14:5000/test:62ad884a4968117d9ac7b14f0305c578a7723486
+      - image: 10.10.10.16:5000/test:62ad884a4968117d9ac7b14f0305c578a7723486
         name: demo
         ports:
         - containerPort: 8080
