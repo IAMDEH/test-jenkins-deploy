@@ -8,5 +8,5 @@ patchesStrategicMerge:
 - ./deployment-patch.yaml
 
 images:
-- name: 10.10.10.16:5000/test
+- name: 192.168.1.40:5000/test
   newTag: 87c7c6197c1175f60f1c0b9ef567b883651a596f
