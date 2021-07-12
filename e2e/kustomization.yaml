@@ -7,6 +7,6 @@ patchesStrategicMerge:
 
 images:
 - name: 192.168.1.40:5000/test
-  newTag: d76717755a8ff214a3451fa791b23935b450fb81
+  newTag: 5f7aa63806de9508cf4b5b17e491afc414e634e6
 resources:
 - ../base
